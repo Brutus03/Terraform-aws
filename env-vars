@@ -1,0 +1,3 @@
+### Authentication
+export TF_VAR_aws_access_key="＜access_keyの中身をペースト＞"
+export TF_VAR_aws_secret_key="＜secret_keyの中身をペースト＞"
