@@ -8,9 +8,6 @@ runcmd:
 ## セキュリティ関連の更新のみがインストール
   - yum update --security -y
 
-## Amazon Corretto 11
-  - yum install -y java-11-amazon-corretto-headless
-
 ## PostgreSQL client programs
   - yum install -y postgresql.x86_64
 
